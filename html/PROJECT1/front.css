@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    flex-direction: row;
+}
+
+.rectangle{
+  
+    width: 50vw;
+    height: 50vh;
+    background-color: brown;
+    position: relative;
+ 
+
+
+}
+.rect{
+    background-color: black;
+    position: absolute;
+    border-radius: 35px;
+    display: flex;
+    margin-left: 11px;
+    margin-right: 11px;
+
+}

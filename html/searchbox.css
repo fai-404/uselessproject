@@ -1,0 +1,59 @@
+.haeader{
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 100px;
+
+}
+.left-section{
+    display: flex;
+    align-items: center;
+}
+.rigth-section{
+    background-color: brown;
+    width: 200px;
+
+}
+.Middle{
+    flex: 1;
+    display: flex;
+    margin-left: 70px;
+    margin-right: 30px;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+.hamberg{
+    height: 15px;
+    width: 20px;
+    margin-left: 10px;
+}
+.yt{
+height: 15px;
+margin-left: 15px;
+}
+.voice{
+    height: 30px;
+    width: 20px;
+}
+.voice-button{
+    height: 36px;  
+    
+}
+.search{
+    height: 30px;
+    width: 20px;
+  
+}
+.search-button{
+    height: 36px;
+
+    
+}
+.search-bar{
+    height: 30px;
+    border-radius: 10px;
+    flex:1;
+}
+
